@@ -1,4 +1,5 @@
 # LegalForms
 Various form legal agreements
 
-Please see my full disclaimer available at: https://github.com/LarryFlorio/LarryFlorio/blob/main/README.md
+Any documents contained in this repository are subject to my full disclaimer available at the link below.
+https://github.com/LarryFlorio/LarryFlorio/blob/main/README.md
