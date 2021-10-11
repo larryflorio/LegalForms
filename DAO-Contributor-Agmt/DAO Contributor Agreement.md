@@ -1,6 +1,6 @@
 **DAO CONTRIBUTOR AGREEMENT**
 
-This DAO Contributor Agreement (the “**_Agreement_**”) is entered into between the organization known as **[Name of DAO] ** (the “**_DAO_**”) and the contributor named on the signature page hereto (the “**_Contributor_**”) as of [Date of Agreement] (“**_Effective Date_**”). The DAO and the Contributor agree as follows:
+This DAO Contributor Agreement (the “**_Agreement_**”) is entered into between the organization known as [Name of DAO] (the “**_DAO_**”) and the contributor named on the signature page hereto (the “**_Contributor_**”) as of [Date of Agreement] (“**_Effective Date_**”). The DAO and the Contributor agree as follows:
 
 
 
