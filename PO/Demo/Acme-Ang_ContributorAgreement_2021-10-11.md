@@ -6,12 +6,12 @@ Law.=[G/U/Place/US/MA/Suffolk/Boston/Geo]
 
 Doc.GUID=Acme-Ang-1234543
 
-EffectiveDate.YMD=2021-10-11
+EffectiveDate.YMD=2021-10-12
 
 Why.sec=To promote the idea of transparent law.
 
-Note=Eliminating the optional expense reimbursement of 2.2.sec:
+Note=Including only the base compensation and eliminating the optional expense reimbursement of 2.2.sec:
 
-2.sec={2.1.sec}
+Comp.sec={Comp.Base.sec}
 
 =[G/LegalForms/PO/DAO-Contributor-Agreement/Form/0.md]
