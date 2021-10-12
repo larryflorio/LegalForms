@@ -10,4 +10,8 @@ EffectiveDate.YMD=2021-10-11
 
 Why.sec=To promote the idea of transparent law.
 
+Note=Eliminating the optional expense reimbursement of 2.2.sec:
+
+2.sec={2.1.sec}
+
 =[G/LegalForms/PO/DAO-Contributor-Agreement/Form/0.md]
