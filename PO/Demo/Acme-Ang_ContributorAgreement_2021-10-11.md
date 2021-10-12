@@ -14,4 +14,14 @@ Note=Including only the base compensation and eliminating the optional expense r
 
 Comp.sec={Comp.Base.sec}
 
+Note=Now playing around!  We use ErichDylus's "Open-Source-Law" repo for its more extensive provisions on independent contractor status.  Note that this (under this rough automation) leaves us with formatting inconsistency.  That can be corrected with an additional patch, but showing it raw here.  We also need to patch the Defined Terms.
+
+Relationship.Independent.=[G/Open-Source-Law/PO/Sec/IndependentContractorRelationship/2021-08-24.md]
+
+_Service_Provider={_Contributor}
+
+_DAO_Legal_Entity=the {_DAO} legal entity
+
+_DAO_Party={_DAO}
+
 =[G/LegalForms/PO/DAO-Contributor-Agreement/Form/0.md]
